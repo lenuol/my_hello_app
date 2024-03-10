@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <AloMundo />
-      <AloMundoColorido nome="Leonardo" cor="red" />
+      <AloMundoColorido nome="Leonardo" cor="green" />
     </>
   );
 }
